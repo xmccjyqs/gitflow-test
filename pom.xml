@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.tima</groupId>
     <artifactId>bootdemo</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>bootdemo</name>
     <description>Demo project for Spring Boot</description>
